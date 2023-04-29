@@ -1,0 +1,36 @@
+EXO 1
+1. O(n)
+
+2. O(n^2)
+
+3. 0(n^2)
+
+4. log2(n)
+
+5. O(n^4)
+
+EXO 2
+6
+lglgn
+lgn
+lg^2n
+sqrt(n)
+n
+nlgn
+n^2
+n^3
+n^3+lgn
+n-n^2+5*n^3
+(3/2)^n
+2^n-1
+2^n
+n!
+
+
+(n^3+log(n))/(n-n^2+5*n^3) -> 0.2
+
+
+EXO3
+
+n^2
+1000
